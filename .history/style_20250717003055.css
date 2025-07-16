@@ -76,7 +76,6 @@ header{
    border: none;
    padding: 14px 22px;
    border-radius: 6px;
-   color: white;
 }
 
 .banner-img img{
@@ -92,13 +91,13 @@ header{
 /* feature section  */
 
 .feature{
-    margin:130px auto;
+    margin: auto;
 }
 
 .feature-section{
     display: flex;
-    justify-content:center;
-    gap: 50px;
+    justify-content: space-between;
+    gap: 40px;
     align-items: center;
 }
 
@@ -109,19 +108,7 @@ header{
     column-gap: 20px;
 }
 
-.feature-content{
-    max-width: 537px;
-}
-
-.feature-content h1{
-    font-size: 2.3rem;
-}
-
-.feature-content p{
-    font-size: 1rem;
-    margin: 20px 0;
-    color: rgba(114, 114, 114, 1);
-}
+.
 
 
 

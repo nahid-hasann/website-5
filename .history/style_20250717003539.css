@@ -76,7 +76,6 @@ header{
    border: none;
    padding: 14px 22px;
    border-radius: 6px;
-   color: white;
 }
 
 .banner-img img{
@@ -114,13 +113,7 @@ header{
 }
 
 .feature-content h1{
-    font-size: 2.3rem;
-}
-
-.feature-content p{
-    font-size: 1rem;
-    margin: 20px 0;
-    color: rgba(114, 114, 114, 1);
+    font-size: 2.3;
 }
 
 

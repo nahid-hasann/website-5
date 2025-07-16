@@ -76,7 +76,6 @@ header{
    border: none;
    padding: 14px 22px;
    border-radius: 6px;
-   color: white;
 }
 
 .banner-img img{
@@ -91,39 +90,18 @@ header{
 
 /* feature section  */
 
-.feature{
-    margin:130px auto;
-}
-
 .feature-section{
     display: flex;
-    justify-content:center;
-    gap: 50px;
-    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
 }
 
-.img-gallary{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    row-gap: 20px;
-    column-gap: 20px;
+.img-gallary
+
+.img-gallary img{
+    width: 342px;
+    height: 342px;
 }
-
-.feature-content{
-    max-width: 537px;
-}
-
-.feature-content h1{
-    font-size: 2.3rem;
-}
-
-.feature-content p{
-    font-size: 1rem;
-    margin: 20px 0;
-    color: rgba(114, 114, 114, 1);
-}
-
-
 
 
 
