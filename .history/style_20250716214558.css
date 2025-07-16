@@ -12,34 +12,18 @@
   font-style: normal;
 }
 
-header{
-    background-color: #fff4e7;
-}
-
 .mian-nav{
     display: flex;
     justify-content: space-between;
-    padding: 30px 150px;
-    align-items: center;
-}
-
-.menu-heading{
-    font-size: 45px;
+    margin: 30px 150px;
 }
 
 .menu-bar ul{
     display: flex;
-    gap: 30px;
-    justify-content: center;
-    align-items: center;
-}
-
-.menu-bar ul li{
-    list-style: none;
+    gap: ;
 }
 
 .menu-bar ul li a{
     text-decoration: none;
-    font-size: 18px;
-    color: rgba(66, 66, 66, 1);
+    display: inline;
 }

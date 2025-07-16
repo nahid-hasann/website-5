@@ -40,6 +40,8 @@ header{
 
 .menu-bar ul li a{
     text-decoration: none;
+    display: flex;
+    align-items: center;
     font-size: 18px;
     color: rgba(66, 66, 66, 1);
 }

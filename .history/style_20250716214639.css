@@ -12,26 +12,15 @@
   font-style: normal;
 }
 
-header{
-    background-color: #fff4e7;
-}
-
 .mian-nav{
     display: flex;
     justify-content: space-between;
-    padding: 30px 150px;
-    align-items: center;
-}
-
-.menu-heading{
-    font-size: 45px;
+    margin: 30px 150px;
 }
 
 .menu-bar ul{
     display: flex;
     gap: 30px;
-    justify-content: center;
-    align-items: center;
 }
 
 .menu-bar ul li{
@@ -40,6 +29,6 @@ header{
 
 .menu-bar ul li a{
     text-decoration: none;
+    display: inline;
     font-size: 18px;
-    color: rgba(66, 66, 66, 1);
 }
