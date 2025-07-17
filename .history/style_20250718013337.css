@@ -337,12 +337,6 @@ header{
     margin: 0 30px;
 }
 
-.fact-conainer{
-    padding: 20px;
-    width: 200px;
-    margin: auto;
-}
-
 
 
 
@@ -445,12 +439,6 @@ header{
 
 .experience-box{
     text-align: center;
-}
-
-.fact-couse{
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-    margin: 0 20px;
 }
 
 

@@ -448,9 +448,9 @@ header{
 }
 
 .fact-couse{
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 20px;
-    margin: 0 20px;
+    margin: 0 30px;
 }
 
 
