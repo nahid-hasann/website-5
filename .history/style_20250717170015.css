@@ -165,7 +165,6 @@ header{
 .feature-content{
     padding-left: 20px;
     padding-right: 12px;
-    text-align: center;
 }
 
 
@@ -208,10 +207,6 @@ header{
 
 .img-gallary{
     grid-template-columns: 1fr;
-}
-
-.img-gallary img{
-    width: 500px;
 }
 
 .feature-content{
