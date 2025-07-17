@@ -133,7 +133,7 @@ header{
 .experience-main-section{
     display: flex;
     gap: 150px;
-    max-width: 1400px;
+    max-width: 1200px;
     align-items: center;
     justify-content: space-between;
     margin: 120px auto;
@@ -155,12 +155,11 @@ header{
 }
 
 .experience-box{
-    /* box-shadow: 0px 0px 15px -5px #000000; */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 15px -5px #000000;
     padding: 20px 20px;
     display: grid;
     grid-template-columns: 1fr;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .experience-box h4{
@@ -172,12 +171,11 @@ header{
       position: relative;
 }
 
-
 .experience-img-bottom{
 
     position: absolute;
     top: 90%;
-    left: -100px;
+    left: -30px;
 }
 
 .experience-img-bottom{
@@ -189,12 +187,10 @@ header{
 
 .experience-img-bottom h1{
    font-size: 4rem;
-   color: white;
 }
 
 .experience-img-bottom p{
     font-size: 1.5625rem;
-    color: white;
 }
 
 
@@ -241,57 +237,6 @@ header{
     text-align: center;
 }
 
-.experience-main-section{
-    flex-direction: column;
-}
-
-.experience-content{
-    justify-content: center;
-    margin: 0 15px;
-    
-}
-
-.experience-content h1{
-    text-align: center;
-    border: none;
-    font-size: 2rem;
-    
-}
-
-.experience-content P{
-    text-align: center;
-}
-
-.experience-img{
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
-}
-
-.experience-img-bottom {
-   padding: 10px 20px;
-  position: static; 
-  margin-top: -40px;
-
-}
-
-.experience-img-bottom h1{
-     font-size: 2rem;
-}
-
-.experience-img-bottom p{
-    font-size: 1rem;
-
-}
-
-.experience-img img{
-    width: 100%;
-}
-
-.experience-box{
-    text-align: center;
-}
 
 
 
@@ -344,59 +289,6 @@ header{
 .feature-content{
     text-align: center;
 }
-
-.experience-main-section{
-    flex-direction: column;
-}
-
-.experience-content{
-    justify-content: center;
-    margin: 0 15px;
-    
-}
-
-.experience-content h1{
-    text-align: center;
-    border: none;
-    font-size: 2rem;
-    
-}
-
-.experience-content P{
-    text-align: center;
-}
-
-.experience-img{
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
-}
-
-.experience-img-bottom {
-   padding: 10px 20px;
-  position: static; 
-  margin-top: -40px;
-
-}
-
-.experience-img-bottom h1{
-     font-size: 2rem;
-}
-
-.experience-img-bottom p{
-    font-size: 1rem;
-
-}
-
-.experience-img img{
-    width: 100%;
-}
-
-.experience-box{
-    text-align: center;
-}
-
 
 
 }

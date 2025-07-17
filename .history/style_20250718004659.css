@@ -172,6 +172,9 @@ header{
       position: relative;
 }
 
+.experience-img img{
+    /* width: 100%; */
+}
 
 .experience-img-bottom{
 
