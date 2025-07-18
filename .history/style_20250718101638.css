@@ -410,7 +410,7 @@ header{
     border-radius: 5px;
 }
 .footer-section p{
-    font-size: 0.8rem;
+    text-align: center;
 }
 
 
@@ -525,9 +525,5 @@ header{
      grid-template-columns: repeat(2, auto);
 }
 
-.footer-section{
-    margin:0 40px 70px 40px;
-    padding: 30px 20px;
-}
 
 }

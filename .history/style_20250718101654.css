@@ -525,9 +525,5 @@ header{
      grid-template-columns: repeat(2, auto);
 }
 
-.footer-section{
-    margin:0 40px 70px 40px;
-    padding: 30px 20px;
-}
 
 }

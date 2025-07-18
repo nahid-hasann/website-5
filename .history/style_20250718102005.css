@@ -528,6 +528,7 @@ header{
 .footer-section{
     margin:0 40px 70px 40px;
     padding: 30px 20px;
+    border-radius: 5px;
 }
 
 }
