@@ -379,14 +379,14 @@ header{
 }
 .Sponspors p{
     padding: 0 15px;
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 
 .sponspors-img{
     grid-template-columns: 100px;
     gap: 30px;
     text-align: center;
-    justify-content: center;
+    jus
 }
 
 .sponspors-img img{
@@ -503,7 +503,7 @@ header{
 }
 
 .sponspors-img {
-     grid-template-columns: repeat(2, auto);
+    
 }
 
 

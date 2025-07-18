@@ -503,7 +503,7 @@ header{
 }
 
 .sponspors-img {
-     grid-template-columns: repeat(2, auto);
+     grid-template-columns: ;
 }
 
 

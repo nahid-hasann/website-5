@@ -243,33 +243,6 @@ header{
 
 /* Sponspors section  */
 
-.Sponspors{
-    margin: 130px auto;
-}
-
-.Sponspors h1{
-    text-align: center;
-    font-size: 2.3rem;
-    margin-bottom: 20px;
-}
-
-.Sponspors p{
-    text-align: center;
-   color:  rgba(114, 114, 114, 1);
-   margin-bottom: 50px;
-   line-height: 20px;
-}
-
-.sponspors-img{
-    display: grid;
-    grid-template-columns: repeat(4, auto);
-    justify-content: space-around;
-    align-items: center;
-    gap: 50px;
-}
-
-
-/* Sponspors section  */
 
 /* responsive part  */
 
@@ -373,25 +346,6 @@ header{
     margin: auto;
 }
 
-
-.Sponspors h1{
-    font-size: 1.5rem;
-}
-.Sponspors p{
-    padding: 0 15px;
-    font-size: 1rem;
-}
-
-.sponspors-img{
-    grid-template-columns: 100px;
-    gap: 30px;
-    text-align: center;
-    justify-content: center;
-}
-
-.sponspors-img img{
-    width: 100px;
-}
 
 
 
@@ -500,10 +454,6 @@ header{
     grid-template-columns: 1fr 1fr;
     gap: 20px;
     margin: 0 20px;
-}
-
-.sponspors-img {
-     grid-template-columns: repeat(2, auto);
 }
 
 

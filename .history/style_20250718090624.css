@@ -373,20 +373,13 @@ header{
     margin: auto;
 }
 
-
-.Sponspors h1{
-    font-size: 1.5rem;
-}
 .Sponspors p{
     padding: 0 15px;
-    font-size: 1rem;
 }
 
 .sponspors-img{
-    grid-template-columns: 100px;
+    grid-template-columns: ;
     gap: 30px;
-    text-align: center;
-    justify-content: center;
 }
 
 .sponspors-img img{
@@ -503,7 +496,7 @@ header{
 }
 
 .sponspors-img {
-     grid-template-columns: repeat(2, auto);
+    
 }
 
 
